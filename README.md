@@ -1,6 +1,6 @@
 # ANGLE
 
-This repository contains the official implementation of **ANGLE: Adaptive Neighbor-Mean Alignment for Graph Contrastive Learning**.
+This repository contains the official implementation of **Hyperspherical Graph Representation Learning via Adaptive Neighbor-Mean Alignment and Uniformity**.
 
 ---
 
@@ -44,7 +44,7 @@ You can modify the arguments to experiment with other datasets such as `CiteSeer
 
 ```
 ANGLE/
-├── run_angle.py             # Main training script
+├── run.py                   # Main training script
 ├── transforms.py            # Graph data augmentation
 ├── README.md                # Project description
 └── results/                 # Output logs and results
