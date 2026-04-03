@@ -1,6 +1,6 @@
 # ANGLE
 
-This repository contains the official implementation of **Hyperspherical Graph Representation Learning via Adaptive Neighbor-Mean Alignment and Uniformity**.
+This repository contains the official implementation of **HyperGRL**.
 
 ---
 
