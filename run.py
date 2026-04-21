@@ -342,7 +342,7 @@ def main(args):
     with open(f'results/results_{args.dataset}_{args.trials}.txt', 'a') as f:
         cfg = f"""
             k: {args.k} 
-            alpha: {args.alpha:.2f} 
+            h_target: {args.h_target:.2f} 
             drop_edge_p: {args.drop_edge_p:.2f} 
             drop_feat_p: {args.drop_feat_p:.2f} 
             hidden_dim: {args.hidden_dim}\n
